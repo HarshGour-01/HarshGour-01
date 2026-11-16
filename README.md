@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://wsrv.nl/?url=avatars.githubusercontent.com%2Fu%2F286907173%3Fv%3D4&w=320&h=320&fit=cover&output=webp&filt=greyscale" width="132" alt="Harsh Gour — black and white profile photo" />
+<!-- Animated dot-matrix portrait will be added from your uploaded photo. -->
 
 # HARSH GOUR
 ### AI & ML Student · Aspiring Software Engineer
@@ -75,18 +75,10 @@ I'm **Harsh Gour**, a Computer Science student specializing in **Artificial Inte
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HarshGour-01&show_icons=true&hide_border=true&bg_color=00000000&title_color=C9A96E&text_color=E8DFC9&icon_color=C9A96E" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshGour-01&layout=compact&hide_border=true&bg_color=00000000&title_color=C9A96E&text_color=E8DFC9" alt="Top languages" />
+<img src="https://gitshine.com/card/HarshGour-01?theme=night" alt="Live GitHub contribution stats, streaks and language activity" width="100%" />
 
 </div>
 
-## CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/HarshGour-01/HarshGour-01/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph" />
-
-</div>
 
 ---
 
