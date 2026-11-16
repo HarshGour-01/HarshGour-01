@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/u/286907173?v=4" width="128" alt="Harsh Gour profile photo" />
+<img src="https://wsrv.nl/?url=avatars.githubusercontent.com%2Fu%2F286907173%3Fv%3D4&w=320&h=320&fit=cover&output=webp&filt=greyscale" width="132" alt="Harsh Gour — black and white profile photo" />
 
 # HARSH GOUR
 ### AI & ML Student · Aspiring Software Engineer
@@ -63,15 +63,11 @@ I'm **Harsh Gour**, a Computer Science student specializing in **Artificial Inte
 
 <div align="center">
 
-<a href="https://github.com/HarshGour-01/Python-projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshGour-01&repo=Python-projects&theme=transparent&hide_border=true&title_color=C9A96E&text_color=E8DFC9&icon_color=C9A96E" alt="Python Projects repository" />
-</a>
-<a href="https://github.com/HarshGour-01/Student-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshGour-01&repo=Student-Management-System&theme=transparent&hide_border=true&title_color=C9A96E&text_color=E8DFC9&icon_color=C9A96E" alt="Student Management System repository" />
-</a>
-<a href="https://github.com/HarshGour-01/harsh-gour-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshGour-01&repo=harsh-gour-portfolio&theme=transparent&hide_border=true&title_color=C9A96E&text_color=E8DFC9&icon_color=C9A96E" alt="Portfolio repository" />
-</a>
+<a href="https://github.com/HarshGour-01/Python-projects"><img src="https://img.shields.io/badge/PYTHON_PROJECTS-7655E8?style=for-the-badge&logo=python&logoColor=white" alt="Python Projects — open repository" /></a>
+&nbsp;
+<a href="https://github.com/HarshGour-01/Student-Management-System"><img src="https://img.shields.io/badge/STUDENT_MANAGEMENT-159D8C?style=for-the-badge&logo=github&logoColor=white" alt="Student Management System — open repository" /></a>
+&nbsp;
+<a href="https://github.com/HarshGour-01/harsh-gour-portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-C9A96E?style=for-the-badge&logo=vercel&logoColor=171717" alt="Portfolio — open repository" /></a>
 
 </div>
 
